@@ -1,0 +1,8 @@
+-- Revert dashboard:schemas/dashboard_public/tables/object_type_attribute_language_variations/indexes/object_type_attribute_language_variations_object_type_attribute_id_lang_code_unique_idx from pg
+
+BEGIN;
+
+ALTER TABLE dashboard_public.data_tag_language_variations 
+    DROP CONSTRAINT oalv_object_type_attribute_id_lang_code_unique_idx;
+
+COMMIT;

@@ -1,0 +1,8 @@
+# dbe-svc-local extension
+comment = 'dbe-svc-local extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/dbe-svc-local'
+requires = 'plpgsql,svc'
+relocatable = false
+superuser = false
+  

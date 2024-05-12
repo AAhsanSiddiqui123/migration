@@ -1,0 +1,6 @@
+-- Revert: schemas/dashboard_public/tables/user_question_language_variations/constraints/user_question_language_variations_user_question_id_lang_code_ke/alterations/alt0000001436 from pg
+
+BEGIN;
+COMMENT ON CONSTRAINT user_question_language_variations_user_question_id_lang_code_ke ON "dashboard_public".user_question_language_variations IS NULL;
+COMMIT;  
+

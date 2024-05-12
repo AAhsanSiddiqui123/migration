@@ -1,0 +1,1 @@
+-- Revert schemas/dashboard_public/tables/user_profiles/table from pg

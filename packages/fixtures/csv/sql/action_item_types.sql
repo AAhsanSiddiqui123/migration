@@ -1,0 +1,1 @@
+INSERT INTO dashboard_public.action_item_types ( id, name ) VALUES ('5a11e116-da53-5499-985f-80b29e530518', 'insta view link to URL'), ('98f4247a-1cf4-5a41-b639-e4eb325149a4', 'Audio'), ('13b38659-71f9-5e09-b117-6bfc71971ce7', 'Video'), ('58a13213-4e3c-52fb-99bc-a56266c04134', 'Check Box');

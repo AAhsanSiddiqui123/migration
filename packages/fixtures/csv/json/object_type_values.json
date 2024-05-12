@@ -1,0 +1,767 @@
+[
+  {
+    "name": "African Sumac",
+    "Objects": [
+      "rec0ubytV2iwGBXdG"
+    ],
+    "attribute": "species",
+    "description": "Drought tolerant evergreen offering dense shade, elegant arching branches and subtle flowers in summer. Can live 150 years.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/52988b5e03a3181688f90ae49b6a5d0c/dce167c2/SelecTree-Rhus_lancea2.jpg",
+      "filename": "SelecTree-Rhus_lancea2.jpg",
+      "size": 102042,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/83566c7abd3fbe2612b54fd06752ee20/298ffa0b",
+          "width": 37,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5b3df2584e5d0d63529eab8b2e8f96b5/4a8912dc",
+          "width": 532,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/c9eb21aad3256e25467cd27c4a49a281/0e616888",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Bronze Loquat",
+    "Objects": [
+      "rec0ubytV2iwGBXdG"
+    ],
+    "attribute": "species",
+    "description": "From Taiwan and Southern Vietnam, it has shiny bronze and green foliage with white flowers in the spring. Moderate water needs. Grows to 25 ft.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/d293abd1e9a9f62b67a318924d73aa2d/7f9ef93f/SelecTree-Eriobotrya_deflexa.jpg",
+      "filename": "SelecTree-Eriobotrya_deflexa.jpg",
+      "size": 75406,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/b0db98e221b38ce5ef169e32d2b28ed2/b9818a9b",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/6a7ac0f439317378d55354994527eefc/8a8019cf",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/ad7d65884e1e472444866421d1e1eb68/3241d400",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Crape Myrtle",
+    "Objects": [
+      "rec0ubytV2iwGBXdG"
+    ],
+    "attribute": "species",
+    "description": "Native to China, with beautiful lavender, pink, red, rose or white flowers in summer. Blooms best in full sun, when it has moderate moisture. Drought tolerant.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/23be9677d36c9590be04ee5ef4dcd9e5/efb46585/SelecTree-Lagerstroemia_indica.jpg",
+      "filename": "SelecTree-Lagerstroemia_indica.jpg",
+      "size": 221127,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/aa1ed6d366fdef8111c48e06a257d684/84076539",
+          "width": 43,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/66542514f23a7c4501d102fa58c5272a/0e829474",
+          "width": 605,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/79a297a3a02293af1eb6503fed273ccd/5164bb80",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Eastern Redbud",
+    "attribute": "species",
+    "description": "Gorgeous pink or rose flowers bloom in spring and its heart shaped leaves turn lemon colored in the fall. This drought tolerant tree is native to the eastern United States.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/1a35ea4dc7a3ac2c310e18a1530a0082/6f31c7a2/SelecTree-Cercis_canadensis.jpg",
+      "filename": "SelecTree-Cercis_canadensis.jpg",
+      "size": 276088,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2add44599b53938eb9bb5329f7dfb38d/fb014643",
+          "width": 43,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/3ec41dd345ac65d186723692410ff79e/9d2f4ad8",
+          "width": 605,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/af15faa540b7d1351dea81cd6cd9b15c/5542692e",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Fraser Photinia",
+    "attribute": "species",
+    "description": "Shiny reddish evergreen foliage with fragrant white flowers in the spring. This small drought tolerant tree fits perfectly under power lines. Native to Asia.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/0de5a63837512c585327bcaca71535a3/2740fd75/photinia--fraseri-tree.jpg",
+      "filename": "photinia-×-fraseri-tree.jpg",
+      "size": 604321,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/d81874cfa35187f24ddaa9914c378213/3b469f6c",
+          "width": 31,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/b5eada68ef4851c5a0a66754d017172e/5ef20964",
+          "width": 512,
+          "height": 601
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2e898f51d9fa8247a9fd8f7f6309292a/507d9d33",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Gold Medallion Tree",
+    "attribute": "species",
+    "description": "Elegant low arching canopy with cheerful yellow flowers in the summer. Moderate water needs. Native to Brazil.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/39b05049e93e041bb6aec07c49c7c429/ac4ae92f/cassia-leptophylla-tree-flowering.jpg",
+      "filename": "cassia-leptophylla-tree-flowering.jpg",
+      "size": 433441,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/3dfb8201a6057629bc26f98e4a83baee/38fec025",
+          "width": 42,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/30ce58db1499023effdd246dcfc6da6a/b735f673",
+          "width": 596,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/aea604d60e1a4e498558fe2c28343d2c/866aa8f4",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Purple Orchid Tree",
+    "attribute": "species",
+    "description": "Drought tolerant tree hailing from India and China. Fragrant lavender or pink flowers in spring or winter decorate a low arching canopy.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/9e04cbc13f5449e0207578609903286d/8971bbd6/SelecTree-Bauhinia_variegata.jpg",
+      "filename": "SelecTree-Bauhinia_variegata.jpg",
+      "size": 111012,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/dfaad71155c4ee4c4b4ec20cf7223eab/ee852c4f",
+          "width": 39,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/7c681b9d55c0ca37ca17d5c2cf1e947a/b0218a35",
+          "width": 550,
+          "height": 509
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/4b1aa6389f9686d495ececd27c17a3f2/04c45f0a",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Australian Willow",
+    "attribute": "species",
+    "description": "Drought tolerant 35 foot tree with inconspicuous white flowers in either spring or fall.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/cc5dcab39df8dc890761f3f1771cf747/72866dd8/SelecTree-Geijera_parviflora2.jpg",
+      "filename": "SelecTree-Geijera_parviflora2.jpg",
+      "size": 208099,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2acda9f3d3ab930675eb08e6a1057f10/ac8a90c9",
+          "width": 30,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/063ed03019b37573a6c7cce085b808c3/cbb7cd8e",
+          "width": 512,
+          "height": 622
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/789c9f3e2443dcd11bed8cd6c1cae94c/fe6c205c",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Carolina Laurel Cherry",
+    "attribute": "species",
+    "description": "Drought tolerant wide canopy tree native to Southeastern United States with fragrant white flowers in spring or winter.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/89577fa7d66c3bff45ad1fb43adb9ddd/279ed8c0/prunus-caroliniana-tree-2.jpg",
+      "filename": "prunus-caroliniana-tree-2.jpg",
+      "size": 682400,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/fe8cc4792fa6dc9140a1ccf84234e93c/de515f08",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/627a61457362db836e1242a9dfc644a5/bf72a83e",
+          "width": 512,
+          "height": 683
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/7e1aaa220d92d5a5abb79efb41130008/f4a4f411",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Chinese Flame Tree",
+    "attribute": "species",
+    "description": "Cheerful yellow flowers in summer or fall, native to Asia, and drought tolerant.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/e56dcac3ddf0aff7a5e9f52cf20cca80/3144aeef/SelecTree-Koelreuteria_bipinnata.jpg",
+      "filename": "SelecTree-Koelreuteria_bipinnata.jpg",
+      "size": 113517,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/8ffce5e443ce2d2aacbc5cb3f618b589/79045b65",
+          "width": 42,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/c74e519e7c3f9814875a4c80d9cdccd8/518f764f",
+          "width": 550,
+          "height": 467
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/56dbbf222d2348c546c5dbb6ca881469/74699d06",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Chinese Pistache",
+    "attribute": "species",
+    "description": "Fragrant leaves with flowers in spring. Medium green, red, gold, orange or multicolored in fall. Offers fairly dense shade.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/924b0a39e97a7a74d3f0fa25ac96e7a8/4abbfb38/SelecTree-Pistacia_chinensis.jpg",
+      "filename": "SelecTree-Pistacia_chinensis.jpg",
+      "size": 193005,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/9df71f2ea65981e3ad2393b291f76808/1f3d41b2",
+          "width": 23,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/536071442dc5c3ade74855e430b4d8f4/3fed1906",
+          "width": 512,
+          "height": 806
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/4679ed7fe1f414729f86439736007757/bf8e0a9b",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Mesquite",
+    "attribute": "species",
+    "description": "Drought tolerant wide canopy tree with fragrant yellow flowers in the spring. Native to Southwestern United States and Northern Mexico.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/24aecf43bb3339fab900efe7d8cac85a/c7f221ea/prosopis-glandulosa-torreyana-tree-flowering.jpg",
+      "filename": "prosopis-glandulosa-torreyana-tree-flowering.jpg",
+      "size": 442813,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2013a182127866b115efa994a701bedf/81b646a1",
+          "width": 43,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/60b5f2c698d158ace2c489edac5e8501/23a4a504",
+          "width": 606,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/1c6f37eccc8d321d0722807b2b4f7167/94970155",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Olive Tree",
+    "attribute": "species",
+    "description": "Native to the Mediterranean Region, this olive tree bears fruit in the fall and small fragrant flowers in spring. It is drought and heat tolerant, with a longevity greater than 150 years.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/cfa30a28acb50331949c212ecc954ab9/757bd1cf/SelecTree-Olea_europaea3.jpg",
+      "filename": "SelecTree-Olea_europaea3.jpg",
+      "size": 159598,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/944de605c0aaddee10aae6a5b00ec18c/94d1772f",
+          "width": 25,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/46467e580dd5fa190c7001f25c18b2bd/9df29a41",
+          "width": 512,
+          "height": 746
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5739fbcb252b35b4b344c3bede7561c6/d0c91c60",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Peppermint Tree",
+    "attribute": "species",
+    "description": "Dark green fragrant leaves, showy white flowers in spring or summer, and fruiting in the fall, this wonderful tree is native to Western Australia.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/b02370d9d2a7c897df8f64bc54b1fa88/febbbea2/SelecTree-Agonis_flexuosa.jpg",
+      "filename": "SelecTree-Agonis_flexuosa.jpg",
+      "size": 535719,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0729b2966d8f36f4ecc12274d67dddce/c20fb375",
+          "width": 39,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/80026b57ce9699c8158328a1130646e3/5f34742a",
+          "width": 559,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/11d5d2c1b09b0c4e2801a504437ac422/c5195dc2",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Pink Trumpet",
+    "attribute": "species",
+    "description": "This long-lived tree is spectacular when in full bloom with pink flowers in spring or summer. Low water needs.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/56eb3d4be9957f964449488736a06512/1d686507/SelecTree-Tabebuia_heterophylla.jpg",
+      "filename": "SelecTree-Tabebuia_heterophylla.jpg",
+      "size": 229380,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/778eac0d0ce0031fa832084e8035fb99/44ba967e",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0d2966993fddbbce760ec3d3c6b2aa2a/0e1a0cf5",
+          "width": 512,
+          "height": 682
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/e27a8e4bdc36314a86bd096d18ecd9af/3900421e",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Silk Tree",
+    "attribute": "species",
+    "description": "This drought tolerant tree has an elegant dome shaped crown canopy, long feathery, finely textured leaves, and delicate pink or rose flowers in spring or summer. Native to southwestern and Eastern Asia.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/68de0d9117a1ad64271a141d0f9c295a/928eeeef/SelecTree-Albizia_julibrissin.jpg",
+      "filename": "SelecTree-Albizia_julibrissin.jpg",
+      "size": 90523,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/4d1a4aad39db14fbcb26f009de4dd7e5/faa45c0c",
+          "width": 48,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/ee6dd9d52ab79de1269928d754620fb6/4f5b6679",
+          "width": 550,
+          "height": 413
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/8149c05f61383fd8d97e9b9ef7e3d0bc/8303ece3",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Sweet Bay",
+    "attribute": "species",
+    "description": "The fragrant leaves of this tree are thick, waxy and resistant to fire. The bay leaf adds great flavor in cooking, and can be dried and bunched to deter moths indoors. Green, white or yellow flowers bloom in spring. Native to mediterranean region.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/025029f7a5fc7e2ca7fa021241a0c2b4/663e5ec7/SelecTree-Laurus_nobilis2-1.jpg",
+      "filename": "SelecTree-Laurus_nobilis2-1.jpg",
+      "size": 192589,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/6684841cb2201c6e4e0d24ed907aa7f5/a0315c5b",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5c045123790993c326f54454e0e5af53/af366765",
+          "width": 512,
+          "height": 682
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/9053072d7f48d2167c4d5d4f47dd302e/10754c88",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "African Fern Pine",
+    "attribute": "species",
+    "description": "Drought tolerant with dense canopy, great for privacy and shade. This long living tree bears flowers in spring and cones in the fall. Native to Uganda, Ethiopia and Kenya.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/4b0df1bca7509638885c56bb5d140941/a4f30da1/SelecTree-Afrocarpus_falcatus2.jpg",
+      "filename": "SelecTree-Afrocarpus_falcatus2.jpg",
+      "size": 492785,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/a7e472c6b7b8c136bac34742bda506c4/eddbed7f",
+          "width": 40,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/764ac0bc6f0a49804813acb9c2818e8d/1d78f52a",
+          "width": 572,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/fb4d8959c957289f0fca0dff304f9fd4/002b807a",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Aleppo Pine",
+    "attribute": "species",
+    "description": "Long living pine, great for shade and drought tolerant. Brings flowers in spring and cones in fall or winter. Mediterranean native.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/99edfcf8201ab75b4551b8a84977b775/250133ed/SelecTree-Pinus_halepensis.jpg",
+      "filename": "SelecTree-Pinus_halepensis.jpg",
+      "size": 138497,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/9f3faeacdb99a53dd4cdd8c2cbae769a/718ae384",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/e26fe28137a5499b5d76049228f4030b/7daf6f54",
+          "width": 512,
+          "height": 682
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/4df426dce3c42ee0bd02da147bdba02e/435e72b0",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Brisbane Box",
+    "attribute": "species",
+    "description": "Drought tolerant with showy and ornate white flowers in spring. Moderately dense shading capacity. Native to Australia.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/45af3496dfdd393e088cb9f09c1056de/3cb73d86/SelecTree-Lophostemon_confertus.jpg",
+      "filename": "SelecTree-Lophostemon_confertus.jpg",
+      "size": 649586,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/bd6361f187bd81c292eaa80403fec876/788268b1",
+          "width": 28,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/e8b21dd3d8520e94f64e85aabe48edcb/6849a0a8",
+          "width": 512,
+          "height": 664
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/19f543a08f751214cc9ee3f79daca415/8ec975db",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Canary Island Pine",
+    "attribute": "species",
+    "description": "This pine has bluish or silvery green needles, grows tall and offers moderate shade. Native of the Canary Islands of Spain and drought tolerant.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/a50a639afb2d9eb0b6b5f2c96db4fba7/1ff8d6b9/SelecTree-Pinus_canariensis.jpg",
+      "filename": "SelecTree-Pinus_canariensis.jpg",
+      "size": 148948,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5f69e7bcc351c1795e7539873bb8b31a/283f0d17",
+          "width": 23,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5217606a4fe418f6e2de7dada4b7c3bb/11a20fe2",
+          "width": 512,
+          "height": 794
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/08399c474b7b48e4e9ab4e4d43edef1d/d4a8239f",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Coast Live Oak",
+    "attribute": "species",
+    "description": "Native to central and Southern California. Hearty, long living oak with large spreading canopy and inconspicuous flowers in the spring.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/d52fb4e921fa32bbeabe295782b0971c/6ae25dbe/SelecTree-Quercus_agrifolia3.jpg",
+      "filename": "SelecTree-Quercus_agrifolia3.jpg",
+      "size": 106358,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/1eec81d13428d5ca2b66b086d0a2e831/e037f334",
+          "width": 40,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/b54d536abb81e83a99f1952e2b777b6a/ab5febde",
+          "width": 550,
+          "height": 491
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/444865f06d8a5499cd8ae200a46c01a5/600ef26b",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Deodar Cedar",
+    "attribute": "species",
+    "description": "This tall, long living, drought tolerant tree has fragrant leaves and bark, and bears tiny flowers in fall and large beautiful cones in spring. Native Eastern Afghanistan, Northern Pakistan and North-Central India.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/84d60bc2013ef1741c077786b4c60952/fa23cd26/SelecTree-Cedrus_deodara.jpg",
+      "filename": "SelecTree-Cedrus_deodara.jpg",
+      "size": 127037,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/ccd05dc7d0cea90edaba9c4294adedf9/f49e6a51",
+          "width": 26,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/b2a83c7caec5dcc190d85adb4d53eb44/fe0e3b3a",
+          "width": 512,
+          "height": 707
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5d2eae07b9ff8f1590304194c4ef5ebb/f428e156",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Drake Chinese Elm",
+    "attribute": "species",
+    "description": "This drought tolerant tall tree offers moderate shade and inconspicuous flowers in summer or fall.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/95a698b8914120b298820a5515fa6419/da79e1b0/SelecTree-Ulmus_parvifolia_Drake.jpg",
+      "filename": "SelecTree-Ulmus_parvifolia_Drake.jpg",
+      "size": 173431,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/730da2086712b8ee272b8479bd998493/51daabe9",
+          "width": 28,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/074b31a56bd5a824a094b4f8c6155c2f/ded6cbb5",
+          "width": 512,
+          "height": 666
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/5496cdb39c8a8b0c53e3cf2129b68960/cb971169",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Italian Stone Pine",
+    "attribute": "species",
+    "description": "This tall and wide canopy tree bears edible pine nuts in winter with ample growing space. Native to the Mediterranean Region. Drought tolerant.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/300aaf7115edf0643daae8cb6eff893b/f02c22a6/pinus-pinea-tree-2.jpg",
+      "filename": "pinus-pinea-tree-2.jpg",
+      "size": 425302,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/ee464843c71b1914f573356cd0504d06/3b2bbe24",
+          "width": 43,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/ff427ee1ef047d692f2c42c020ae2d90/3208eea8",
+          "width": 619,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/8901e49d752a0b79f11a3362fde619e7/02c4a68a",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Jacaranda",
+    "attribute": "species",
+    "description": "Big blue or lavender fragrant flowers in spring, summer or fall. Native to Argentina and Bolivia.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/8efd40f23b60335e6f7d017e072d3b1b/bd49fc40/SelecTree-Jacaranda_mimosifolia_2.jpg",
+      "filename": "SelecTree-Jacaranda_mimosifolia_2.jpg",
+      "size": 130406,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/23158b4a4436a85925379d5411fd7587/14c8416e",
+          "width": 38,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/82b99d3c7b83a57554a15130e2a3c02c/07b3da3a",
+          "width": 534,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/0cf70f310754fcd8335fe8dd1903a9f5/34663a7a",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  },
+  {
+    "name": "Tipu Tree",
+    "attribute": "species",
+    "description": "This tree offers wide and dense canopy and cheerful yellow or orange flowers in summer. Native to Bolivia and Southern Brazil.",
+    "photo": {
+      "url": "https://dl.airtable.com/.attachments/d30d8e10cb9e45901f6e58a8bd94c245/ed725c54/tipuana-tipu-tree-baldwin.jpg",
+      "filename": "tipuana-tipu-tree-baldwin.jpg",
+      "size": 183042,
+      "mime": "image/jpeg",
+      "versions": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/8be2a1c28f3d4a56c22775f30fb38592/be79aaae",
+          "width": 59,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/d0923fb86bb5514f92a6d6e0764b3986/84dc1392",
+          "width": 550,
+          "height": 338
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/f957a6ec0f767b4299e8c6d66bdbf60f/0233b649",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  }
+]

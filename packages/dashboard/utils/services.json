@@ -1,0 +1,32 @@
+{
+  "api.dbe": {
+    "subdomain": "api.dbe",
+    "domain": "localhost",
+    "role_name": "authenticated",
+    "anon_role": "anonymous",
+    "role_key": "user_id",
+    "schemas": [
+      "dashboard_public"
+    ],
+    "auth": [
+      "dashboard_private",
+      "authenticate"
+    ],
+    "pubkey_challenge": null
+  },
+  "admin.dbe": {
+    "subdomain": "admin.dbe",
+    "domain": "localhost",
+    "role_name": "authenticated",
+    "anon_role": "anonymous",
+    "role_key": "user_id",
+    "schemas": [
+      "dashboard_public"
+    ],
+    "auth": [
+      "dashboard_private",
+      "authenticate"
+    ],
+    "pubkey_challenge": null
+  }
+}

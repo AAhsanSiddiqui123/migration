@@ -1,0 +1,1 @@
+-- Verify schemas/dashboard_public/tables/organization_profiles/table  on pg

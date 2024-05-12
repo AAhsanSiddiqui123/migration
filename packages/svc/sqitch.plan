@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=svc
+%uri=svc
+
+migrate/meta 2017-08-11T08:11:51Z launchql <launchql@5b0c196eeb62> # add undefined
+migrate/stage 2021-08-12T23:52:42Z Dan Lynch <dlynch@dans-mbp-3.lan> # stage db

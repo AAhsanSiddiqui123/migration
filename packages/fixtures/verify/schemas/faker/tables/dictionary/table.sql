@@ -1,0 +1,1 @@
+-- Verify schemas/faker/tables/dictionary/table  on pg

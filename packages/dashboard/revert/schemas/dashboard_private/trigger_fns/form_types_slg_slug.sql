@@ -1,0 +1,6 @@
+-- Revert: schemas/dashboard_private/trigger_fns/form_types_slg_slug from pg
+
+BEGIN;
+DROP FUNCTION "dashboard_private".form_types_slg_slug;
+COMMIT;  
+

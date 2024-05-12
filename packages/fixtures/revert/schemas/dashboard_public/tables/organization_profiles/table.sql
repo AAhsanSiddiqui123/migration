@@ -1,0 +1,1 @@
+-- Revert schemas/dashboard_public/tables/organization_profiles/table from pg

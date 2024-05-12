@@ -1,0 +1,1 @@
+-- Revert schemas/dashboard_public/tables/actions/table from pg

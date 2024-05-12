@@ -1,0 +1,8 @@
+# dashboard extension
+comment = 'dashboard extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/dashboard'
+requires = 'plpgsql,uuid-ossp,citext,pgcrypto,btree_gist,hstore,postgis,launchql-base32,launchql-totp,launchql-inflection,launchql-ext-types,launchql-ext-jobs,launchql-ext-default-roles,launchql-jwt-claims,launchql-stamps,launchql-uuid,launchql-utils,db_meta,db_meta_modules'
+relocatable = false
+superuser = false
+  

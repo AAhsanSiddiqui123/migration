@@ -1,0 +1,8 @@
+# fixtures extension
+comment = 'fixtures extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/fixtures'
+requires = 'citext,plpgsql,postgis,uuid-ossp,dashboard,launchql-inflection,launchql-faker'
+relocatable = false
+superuser = false
+  

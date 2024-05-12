@@ -1,0 +1,1600 @@
+[
+  {
+    "name": "ron Finley gardener video",
+    "type": "Video",
+    "action": "\"The Gangsta Gardener\" TED Talk",
+    "embed_code": "<div style=\"max-width:854px\"><div style=\"position:relative;height:0;padding-bottom:56.25%\"><iframe src=\"https://embed.ted.com/talks/ron_finley_a_guerrilla_gardener_in_south_central_la\" width=\"854\" height=\"480\" style=\"position:absolute;left:0;top:0;width:100%;height:100%\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div></div>",
+    "url": "https://embed.ted.com/talks/ron_finley_a_guerrilla_gardener_in_south_central_la",
+    "time_required": "660 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Reduce Food Waste",
+    "type": "insta view link to URL",
+    "action": "10 Ways to Reduce Your Food Waste Footprint",
+    "url": "https://modernfarmer.com/2016/04/reduce-food-waste/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "adding climate appropriate plants",
+    "type": "insta view link to URL",
+    "action": "Add a Climate-Appropriate Plant to Your Garden",
+    "url": "https://hbteam.org/in-your-backyard/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sign up to Adopt a beach",
+    "type": "insta view link to URL",
+    "action": "Adopt a Beach",
+    "item_order": 1,
+    "is_required": true,
+    "description": "Fill out the application",
+    "url": "https://healthebay.force.com/form/s/adoptabeach",
+    "time_required": "300 seconds"
+  },
+  {
+    "name": "Adopa a beach frequently asked questions",
+    "type": "insta view link to URL",
+    "action": "Adopt a Beach",
+    "item_order": 2,
+    "description": "Frequently asked questions",
+    "url": "https://healthebay.org/wp-content/uploads/2020/10/AAB-FAQ.pdf",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Tips for Finding Cleanup Supplies Around the House",
+    "type": "Video",
+    "action": "Adopt a Beach",
+    "item_order": 3,
+    "description": "Tips for Finding Cleanup Supplies Around the House",
+    "url": "https://www.youtube.com/watch?v=vQzZfGipvxU&feature=emb_logo",
+    "time_required": "240 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Home energy improvement",
+    "type": "insta view link to URL",
+    "action": "Apply For a Home Energy Improvement Program",
+    "url": "https://www.ladwp.com/ladwp/faces/ladwp/residential/r-savemoney/r-sm-rebatesandprograms/r-sm-rp-homeenergyimprovementprogram;jsessionid=dvw8gqyZcCTh4jFBHLWXJQH18FL11w8Fh5TpG7yc7P2WMyQzClcs!-530516072?_afrWindowId=null&_afrLoop=444743296644270&_afrWindowMode=0&_adf.ctrl-state=c5wn5tgdb_4#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D444743296644270%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dpp94ozkvg_4",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Used EV",
+    "type": "insta view link to URL",
+    "action": "Apply For A Used Electric Vehicle Rebate",
+    "url": "https://www.ladwp.com/ladwp/faces/wcnav_externalId/r-sm-rp-usedev?_afrWindowId=null&_afrLoop=521613054468368&_afrWindowMode=0&_adf.ctrl-state=xqrqq9k7t_17#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D521613054468368%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dy1bvmelc5_34",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Electric Vehicle",
+    "type": "insta view link to URL",
+    "action": "Apply for an Electric Vehicle Rebate",
+    "url": "https://www.sce.com/residential/electric-vehicles/ev-rebates-incentives",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Climate Change Bootcamp",
+    "type": "insta view link to URL",
+    "action": "Apply for Climate Change Bootcamp",
+    "url": "https://www.terra.do/climate-change-learning-for-action",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "SOMAH",
+    "type": "insta view link to URL",
+    "action": "Apply for Funding for Solar on Multifamily Affordable Housing ",
+    "url": "https://calsomah.org/about",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Electrify Santa Monica",
+    "type": "insta view link to URL",
+    "action": "Apply for the Electrify Santa Monica Rebate Program",
+    "url": "https://www.smgov.net/uploadedFiles/Departments/OSE/Categories/Energy/Electrify%20Santa%20Monica%20Rebate%203%20pg%20PDF.pdf",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Self-Generation Incentive",
+    "type": "insta view link to URL",
+    "action": "Apply For The Self-Generation Incentive Program",
+    "url": "https://www.cpuc.ca.gov/sgipinfo/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "turf replacement",
+    "type": "insta view link to URL",
+    "action": "Apply for the Turf Replacement Program",
+    "url": "https://socalwatersmart.com/en/residential/rebates/available-rebates/turf-replacement-program/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "register fruit tree",
+    "type": "insta view link to URL",
+    "action": "Apply to Donate Fruit from Your Fruit Tree",
+    "url": "https://community.foodforward.org/properties/apply",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Applied/referred someone to Young Adult Corps",
+    "type": "insta view link to URL",
+    "action": "Apply to Join the Young Adult Corps",
+    "url": "https://www.lacorps.org/young-adult-corps/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about mushroom fashion",
+    "type": "insta view link to URL",
+    "action": "Are Mushrooms Entering the World of Fashion?",
+    "url": "https://www.forbes.com/sites/annahaines/2021/04/15/fungi-fashion-is-booming-as-adidas-launches-new-mushroom-leather-shoe/?sh=42643139788c",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "CLAW Event",
+    "type": "insta view link to URL",
+    "action": "Attend a CLAW Event",
+    "url": "https://www.clawonline.org/what-we-do",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Energy Seminar",
+    "type": "insta view link to URL",
+    "action": "Attend a Stanford Energy Seminar",
+    "url": "https://energy.stanford.edu/energy-seminar/about-energy-seminar",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "virtual event with Heal the Bay",
+    "type": "insta view link to URL",
+    "action": "Attend a Virtual Event with Heal the Bay",
+    "url": "https://healthebay.org/events/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about solar pavement",
+    "type": "insta view link to URL",
+    "action": "Barcelona Installs Spain’s First Solar Energy Pavement",
+    "url": "https://www.theguardian.com/environment/2021/apr/29/barcelona-installs-spains-first-solar-energy-pavement",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Video barn owl",
+    "type": "Video",
+    "action": "Barn Owl Nesting Program",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/grNa2Yu2wWI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "Barn Owl nesting program",
+    "url": "https://www.youtube.com/embed/grNa2Yu2wWI",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about plants in prisons",
+    "type": "insta view link to URL",
+    "action": "Benefits of Plants in Prisons",
+    "url": "https://www.theguardian.com/society/2021/feb/25/plants-linked-to-lower-levels-of-violence-and-self-harm-in-prisons?CMP=Share_iOSApp_Other",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Thrifting in LA",
+    "type": "insta view link to URL",
+    "action": "Best Thrift Spots in LA",
+    "url": "https://www.laweekly.com/best-places-to-go-thrifting-on-l-a-s-westside/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Biden's Climate Goals",
+    "type": "Video",
+    "action": "Biden's Climate Ambitions",
+    "url": "https://www.youtube.com/watch?v=0wXe-GanTh0",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about Biden's Agriculture Climate Plan",
+    "type": "insta view link to URL",
+    "action": "Biden's Climate Plan for Agriculture",
+    "url": "https://modernfarmer.com/2021/02/biden-bets-the-farm-on-climate/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Carbon Footprint",
+    "type": "insta view link to URL",
+    "action": "Calculate Your Carbon Footprint",
+    "url": "https://www3.epa.gov/carbon-footprint-calculator/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Carbon Pricing",
+    "type": "insta view link to URL",
+    "action": "Carbon Tax vs. Cap and Trade",
+    "url": "https://www.wri.org/blog/2016/03/carbon-tax-vs-cap-and-trade-what-s-better-policy-cut-emissions#:~:text=A%20carbon%20tax%20directly%20establishes%20a%20price%20on,a%20set%20number%20of%20emissions%20%E2%80%9Callowances%E2%80%9D%20each%20year.",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Check Out Waste Not",
+    "type": "insta view link to URL",
+    "action": "Check Out 'Waste Not'",
+    "url": "https://wastenot.world/mission",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Black-owned Vegan",
+    "type": "insta view link to URL",
+    "action": "Check out a Black-Owned Vegan Restaurant",
+    "url": "https://travelnoire.com/best-black-owned-vegan-la",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Check out Patagonia Provisions",
+    "type": "insta view link to URL",
+    "action": "Check out Patagonia Provisions",
+    "url": "https://www.patagoniaprovisions.com/collections/all",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Free Recycling Programs",
+    "type": "insta view link to URL",
+    "action": "Check Out Terracycle's Free Recycling Programs",
+    "url": "https://www.terracycle.com/en-US/brigades",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Check Out Food Purchasing Guide",
+    "type": "insta view link to URL",
+    "action": "Check Out The #eat4climate Purchasing Guide",
+    "url": "https://kisstheground.com/wp-content/uploads/2018/10/KTG_Purchasing_Guide_101718.pdf",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "know the flow LA water source Video",
+    "type": "Video",
+    "action": "City of LA's Water Source",
+    "url": "https://player.vimeo.com/video/185728171",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Resilient Infrastructure",
+    "type": "insta view link to URL",
+    "action": "Collaborating on Resilient Infrastructure",
+    "url": "https://www.wri.org/blog/2020/06/collaboration-nature-based-solutions-city-agencies",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "compost in small places",
+    "type": "Video",
+    "action": "Composting for Small Spaces",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BVNpsbtc8uY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "compost in small places",
+    "url": "https://www.youtube.com/embed/BVNpsbtc8uY",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "know the flow educator",
+    "type": "insta view link to URL",
+    "action": "Connect with a 'Know the Flow' Educator",
+    "item_order": 1,
+    "is_required": true,
+    "description": "Request a Speaker",
+    "url": "https://healthebay.force.com/form/s/requestaspeaker",
+    "time_required": "480 seconds"
+  },
+  {
+    "name": "Eat Real",
+    "type": "insta view link to URL",
+    "action": "Connect Your Local School District With Eat Real",
+    "url": "https://eatreal.org/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "B1M Video",
+    "type": "Video",
+    "action": "Cooling U.S. Cities With Urban Planning",
+    "url": "http://www.theb1m.com/video/3-cool-ways-to-cool-our-cities",
+    "time_required": "3600 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Diy Rain Garden",
+    "type": "insta view link to URL",
+    "action": "DIY Rain Garden ",
+    "url": "https://www.bhg.com/gardening/landscaping-projects/landscape-basics/make-a-rain-garden/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "DIY energy efficient installation",
+    "type": "insta view link to URL",
+    "action": "DIY: An Energy Efficiency Project",
+    "url": "https://gogreenfinancing.com/residential/getstarted#diy",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "donate produce",
+    "type": "insta view link to URL",
+    "action": "Donate Produce from Your Garden",
+    "url": "https://foodforward.org/donate-food/other-produce-donations/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Transition Streets Handbook",
+    "type": "insta view link to URL",
+    "action": "Download the Transition Streets Handbook",
+    "url": "http://handbook.transitionstreets.org/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Grass Rebate",
+    "type": "insta view link to URL",
+    "action": "Earn Cash for Removing Grass",
+    "url": "https://dpw.lacounty.gov/wwd/web/Conservation/CashForGrass.aspx",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Enroll in Disaster Prep",
+    "type": "insta view link to URL",
+    "action": "Enroll in a Disaster Preparedness Course",
+    "url": "https://www.listoscalifornia.org/get-prepared/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Find a regenerative farm",
+    "type": "insta view link to URL",
+    "action": "Find a Regenerative Farm Near You",
+    "url": "https://regenerationinternational.org/regenerative-farm-map",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Fixing Drought in Cities",
+    "type": "insta view link to URL",
+    "action": "Fixing the Problem of Drought in Cities",
+    "url": "https://gizmodo.com/heres-a-highly-rational-totally-plausible-fix-for-drou-1713918502",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "intro to biking video",
+    "type": "Video",
+    "action": "Free Biking Classes",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RQ-WNuL-wOI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/RQ-WNuL-wOI",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "regenerate land video",
+    "type": "Video",
+    "action": "Gabe Brown: Regeneration of Our Land",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QfTZ0rnowcc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "The United States is in crisis. The health of our soil resource has declined to such a point that it is not only negatively affecting farm and ranch profitability, but it is also having a devastating impact on everything from our water quality to our communities and even to our health. North Dakota",
+    "url": "https://www.youtube.com/embed/QfTZ0rnowcc",
+    "time_required": "1080 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Pest Control",
+    "type": "insta view link to URL",
+    "action": "Gardening for Pest Control",
+    "url": "https://www.treehugger.com/how-to-attract-bug-eating-birds-to-your-garden-4863928",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Free Tree for School",
+    "type": "insta view link to URL",
+    "action": "Get a Free Tree for Your Local School",
+    "url": "https://www.cityplants.org/trees-for-your-school/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Duct Sealing",
+    "type": "insta view link to URL",
+    "action": "Get a Rebate for Duct Sealing and Testing",
+    "url": "https://www.socalgas.com/save-money-and-energy/assistance-programs/energy-savings-assistance-program",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Free Yard Trees Video",
+    "type": "Video",
+    "action": "Get a Tree Planted in Your Yard for Free",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KPyAU0Du34k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "description",
+    "url": "https://www.youtube.com/embed/KPyAU0Du34k",
+    "time_required": "3660 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Free Mulch",
+    "type": "insta view link to URL",
+    "action": "Get Free Mulch for Your Garden",
+    "url": "https://www.lacitysan.org/san/faces/home/portal/s-lsh-wwd/s-lsh-wwd-s/s-lsh-wwd-s-gw/s-lsh-wwd-s-gw-fmg?_adf.ctrl-state=mfhuq69sj_1&_afrLoop=3102710573650857&_afrWindowMode=0&_afrWindowId=null#!%40%40%3F_afrWindowId%3Dnull%26_afrLoop%3D3102710573650857%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dmfhuq69sj_5",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "EV charging station",
+    "type": "insta view link to URL",
+    "action": "Get Funding For Electric Vehicle Charging Station Fees",
+    "url": "https://www.ladwp.com/ladwp/faces/wcnav_externalId/r-sm-rp-ev?_adf.ctrl-state=10kthreigb_4&_afrLoop=447733530489723&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D447733530489723%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dxqrqq9k7t_4",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Get involved with FOLAR",
+    "type": "insta view link to URL",
+    "action": "Get Involved with FOLAR",
+    "url": "https://folar.org/get-involved/#cleanup",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Water Committee Meeting",
+    "type": "insta view link to URL",
+    "action": "Get Involved with Our Water LA",
+    "url": "https://ourwaterla.org/events/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about greening with agave",
+    "type": "insta view link to URL",
+    "action": "Greening the Desert with Agave",
+    "url": "https://regenerationinternational.org/2020/12/23/agave-power-greening-the-desert/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Capturing LA's Rainwater",
+    "type": "insta view link to URL",
+    "action": "Harvesting Rainwater in LA",
+    "url": "https://la.curbed.com/2015/6/25/9946522/los-angeles-rainwater-capture",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "what the hall audio",
+    "type": "Audio",
+    "action": "Healing the Environment With TreePeople",
+    "url": "https://www.foxla.com/podcasts/what-the-hal-healing-the-environment-with-treepeople",
+    "time_required": "1200 seconds",
+    "is_required": false
+  },
+  {
+    "name": "The low flower song",
+    "type": "Video",
+    "action": "Hear the 'Know the Flow' Song",
+    "url": "https://www.youtube.com/watch?v=FRCB3p0lPQ0",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "rebate video",
+    "type": "Video",
+    "action": "High-Efficiency Clothes Washers Rebates",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MZ-NqCCH2UI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/MZ-NqCCH2UI",
+    "time_required": "240 seconds",
+    "is_required": false
+  },
+  {
+    "name": "gangsta growers video",
+    "type": "Video",
+    "action": "How ATL Is Turning Ex-Cons Into Urban Farmers",
+    "embed_code": "<iframe src='//players.brightcove.net/1155968404/r1WF6V0Pl_default/index.html?videoId=5976011943001' allowfullscreen frameborder=0></iframe>",
+    "url": "https://players.brightcove.net/1155968404/r1WF6V0Pl_default/index.html?videoId=5976011943001",
+    "time_required": "420 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learn about Biden's climate strategy",
+    "type": "Audio",
+    "action": "How Biden Administration Plans To Navigate Challenging Topic Of Climate Change",
+    "url": "https://www.npr.org/2021/01/22/959700067/how-biden-administration-plans-to-navigate-challenging-topic-of-climate-change",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Watch a video on plastic bricks",
+    "type": "Video",
+    "action": "How Nzambi Matee Turns Plastic Waste Into Bricks",
+    "url": "https://www.youtube.com/watch?v=QbZKP4UAtL8",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Forest Floors in Daycares",
+    "type": "insta view link to URL",
+    "action": "How Plants Can Boost Children's Immunity ",
+    "url": "https://www.sciencealert.com/daycares-in-finland-built-a-backyard-forest-and-it-changed-children-s-immune-systems",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about community composting",
+    "type": "insta view link to URL",
+    "action": "How to Get Communities to Compost",
+    "url": "https://grist.org/fix/domingo-morales-make-composting-cool/?utm_source=newsletter&utm_medium=email&utm_campaign=beacon",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sustainable Laundry",
+    "type": "insta view link to URL",
+    "action": "How to Lighten the Washday Load on the Environment",
+    "url": "https://www.theguardian.com/lifeandstyle/2018/mar/31/less-laundry-less-often-how-to-lighten-the-washday-load-on-the-environment",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Replace lawn video",
+    "type": "Video",
+    "action": "Identifying and Removing Lawn Types",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3X0wAiOXAso\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "Replace lawn video",
+    "url": "https://www.youtube.com/embed/3X0wAiOXAso",
+    "time_required": "300 seconds",
+    "is_required": false
+  },
+  {
+    "name": "watch a video on plant based burgers",
+    "type": "Video",
+    "action": "Impossible Burger vs. Beyond Burger",
+    "url": "https://youtu.be/wmPICk0ZBzc",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Heat Pump Water Heater",
+    "type": "insta view link to URL",
+    "action": "Install a Heat Pump Water Heater",
+    "url": "https://www.sce.com/residential/rebates-savings/rebates",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "High efficiency washer",
+    "type": "insta view link to URL",
+    "action": "Install a High Efficiency Clothes Washer",
+    "url": "https://dpw.lacounty.gov/wwd/web/Conservation/RebateProgram.aspx",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Rain Capture System",
+    "type": "insta view link to URL",
+    "action": "Install a Rain Capture System",
+    "url": "https://dpw.lacounty.gov/wwd/web/Conservation/RebateProgram.aspx",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Rotating sprinkler",
+    "type": "insta view link to URL",
+    "action": "Install a Rotating Sprinkler Nozzle",
+    "url": "https://dpw.lacounty.gov/wwd/web/Conservation/RebateProgram.aspx",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Install A Smart Thermostat",
+    "type": "insta view link to URL",
+    "action": "Install a Smart Thermostat and Save!",
+    "url": "https://pages.email.sce.com/SCESmartBonus/-",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Smart Thermostat",
+    "type": "insta view link to URL",
+    "action": "Install a Smart Thermostat To Save!",
+    "url": "https://www.socalgas.com/save-money-and-energy/rebates-and-incentives/residential-direct-install-program",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "soil moisture sensor",
+    "type": "insta view link to URL",
+    "action": "Install a Soil Moisture Sensor",
+    "url": "https://socalwatersmart.com/en/residential/rebates/available-rebates/soil-moisture-sensors/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Shower Valve",
+    "type": "insta view link to URL",
+    "action": "Install a Thermostatic Shower Valve and Save!",
+    "url": "https://www.socalgas.com/save-money-and-energy/assistance-programs/energy-savings-assistance-program",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Kitchen Faucets",
+    "type": "insta view link to URL",
+    "action": "Install Faucet Aerators And Save!",
+    "item_order": 1,
+    "is_required": true,
+    "notification_text": "Hey remember your workshop",
+    "description": "ENERGY SAVINGS ASSISTANCE PROGRAM",
+    "url": "https://www.socalgas.com/save-money-and-energy/assistance-programs/energy-savings-assistance-program",
+    "time_required": "3660 seconds"
+  },
+  {
+    "name": "Shower Heads",
+    "type": "insta view link to URL",
+    "action": "Install Low-Flow Showerheads And Save!",
+    "item_order": 1,
+    "is_required": true,
+    "notification_text": "Hey remember your workshop",
+    "description": "ENERGY SAVINGS ASSISTANCE PROGRAM",
+    "url": "https://www.socalgas.com/save-money-and-energy/assistance-programs/energy-savings-assistance-program",
+    "time_required": "3660 seconds"
+  },
+  {
+    "name": "WBIC",
+    "type": "insta view link to URL",
+    "action": "Install Weather-based Irrigation Controllers (WBICs)",
+    "url": "https://dpw.lacounty.gov/wwd/web/Conservation/RebateProgram.aspx",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about seaweed and fake meat",
+    "type": "insta view link to URL",
+    "action": "Is Seaweed The Secret to a Better Faux Burger?",
+    "url": "https://grist.org/fix/this-startup-says-seaweed-is-the-secret-to-a-better-faux-burger-and-a-healthier-climate/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Join Buy Nothing",
+    "type": "insta view link to URL",
+    "action": "Join the Buy Nothing Project",
+    "url": "https://buynothingproject.org/find-a-group/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Join the Community Water Watch",
+    "type": "insta view link to URL",
+    "action": "Join the Community Water Watch",
+    "url": "https://www.lawaterkeeper.org/community-water-watch-sign-up",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "kiss the ground trailer",
+    "type": "Video",
+    "action": "Kiss The Ground (Film)",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3iknWWKZOUs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/3iknWWKZOUs",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Enhancing Urban Runoff (Capture and Use) View the report here",
+    "type": "insta view link to URL",
+    "action": "Land Use and Capturing Rainwater",
+    "item_order": 1,
+    "is_required": true,
+    "description": "Enhancing Urban Runoff (Capture and Use) View the report here",
+    "url": "https://www.waterboards.ca.gov/water_issues/programs/stormwater/storms/docs/storms_capture_use.pdf",
+    "time_required": "2400 seconds"
+  },
+  {
+    "name": "Enhanced Watershed (Management Plan) View the report here",
+    "type": "insta view link to URL",
+    "action": "Land Use and Capturing Rainwater",
+    "item_order": 2,
+    "is_required": true,
+    "description": "Enhanced Watershed (Management Plan) View the report here",
+    "url": "http://filecenter.santa-clarita.com/GreenSC/UpperSantaClaraRiver_EWMP_Final.pdf",
+    "time_required": "2100 seconds"
+  },
+  {
+    "name": "Coordinated Integrated Monitoring Program. View the report",
+    "type": "insta view link to URL",
+    "action": "Land Use and Capturing Rainwater",
+    "item_order": 3,
+    "is_required": true,
+    "description": "Coordinated Integrated Monitoring Program. View the report",
+    "url": "http://filecenter.santa-clarita.com/GreenSC/Revised%20Upper%20Santa%20Clara%20River%20CIMP%20December%202017.pdf)",
+    "time_required": "2700 seconds"
+  },
+  {
+    "name": "Sustainable Product Review",
+    "type": "insta view link to URL",
+    "action": "Learn About a Sustainable Products",
+    "url": "https://buyingmywaytogreen.com/product-list/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "California Solar Incentive",
+    "type": "insta view link to URL",
+    "action": "Learn About California Solar Initiative",
+    "url": "https://www.cpuc.ca.gov/General.aspx?id=6043",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Climate Victory Gardens",
+    "type": "Video",
+    "action": "Learn About Climate Victory Gardens",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ok5U3dKeq6g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "description",
+    "url": "https://www.youtube.com/embed/ok5U3dKeq6g",
+    "time_required": "3660 seconds",
+    "is_required": false
+  },
+  {
+    "name": "CHG how it began",
+    "type": "Video",
+    "action": "Learn About Community Healing Gardens",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iE78nPrRYe4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/iE78nPrRYe4",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "video growing home",
+    "type": "Video",
+    "action": "Learn About Creating a 'Growing Home'",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hzevppFTu10\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/hzevppFTu10",
+    "time_required": "1500 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Energy efficient appliances",
+    "type": "insta view link to URL",
+    "action": "Learn About Financing Energy Efficient Appliances",
+    "url": "https://gogreenfinancing.com/residential#tab-14",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Energy efficient lighting",
+    "type": "insta view link to URL",
+    "action": "Learn About Financing Energy Efficient Lighting",
+    "url": "https://gogreenfinancing.com/residential#tab-17",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "energy efficient water heater",
+    "type": "insta view link to URL",
+    "action": "Learn About Financing Energy Efficient Water Heaters",
+    "url": "https://gogreenfinancing.com/residential#tab-12",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "insulation",
+    "action": "Learn About Financing Insulation",
+    "url": "https://gogreenfinancing.com/residential#tab-13",
+    "time_required": "60 seconds",
+    "type": "Check Box",
+    "is_required": false
+  },
+  {
+    "name": "Window Upgrade",
+    "type": "insta view link to URL",
+    "action": "Learn About Financing Windows and Window Film",
+    "url": "https://gogreenfinancing.com/residential#tab-11",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Groundwater",
+    "type": "insta view link to URL",
+    "action": "Learn about Groundwater Treatment in Your Area",
+    "url": "https://www.ladwp.com/ladwp/faces/ladwp/aboutus/a-water/a-w-gwremediation?_adf.ctrl-state=bktea2s7c_4&_afrLoop=62679479059771",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Benefits of Kelp",
+    "type": "insta view link to URL",
+    "action": "Learn About Kelp's Impact",
+    "url": "https://www.saveur.com/bren-smith-kelp-farmer/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about LA's Roadmap to Renewables",
+    "type": "insta view link to URL",
+    "action": "Learn About LA's Roadmap to 100% Renewables",
+    "url": "https://www.latimes.com/business/story/2021-03-24/los-angeles-now-has-a-roadmap-for-100-renewable-energy",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Pacoima Beautiful Mission",
+    "type": "insta view link to URL",
+    "action": "Learn about Pacoima Beautiful's Work",
+    "url": "http://publichealth.lacounty.gov/place/PacoimaBeautiful.htm",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about pest control",
+    "type": "insta view link to URL",
+    "action": "Learn about Pesticide-Free Pest Control",
+    "url": "https://modernfarmer.com/2021/02/how-california-crops-fought-off-a-pest-without-using-pesticide/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Reduce Food Emissions",
+    "type": "insta view link to URL",
+    "action": "Learn About Reducing Your Food Related Emissions",
+    "url": "https://ourworldindata.org/food-choice-vs-eating-local",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Regenerative Agriculture",
+    "type": "insta view link to URL",
+    "action": "Learn About Regenerative Agriculture",
+    "url": "https://www.rainforest-alliance.org/articles/what-is-regenerative-agriculture",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about reusable products",
+    "type": "insta view link to URL",
+    "action": "Learn about Reusable Products",
+    "url": "https://www.greenamerica.org/green-living/reusable-products-help-you-break-single-use-plastics?utm_source=newsletter&utm_medium=email&eType=EmailBlastContent&eId=ce0bf28c-61c2-4040-b899-a096e060e7bd",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Soil carbon and colored cotton",
+    "type": "insta view link to URL",
+    "action": "Learn About Soil Carbon and Colored Cotton",
+    "url": "https://civileats.com/2018/08/30/mee-the-fanatic-breeding-colored-cotton-growing-heirloom-wheat-and-building-soil-carbon/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about the Green New Deal",
+    "type": "insta view link to URL",
+    "action": "Learn about the Green New Deal ",
+    "url": "https://www.sunrisemovement.org/gnd-resources/?ms=GreenNewDealResources#gnd-explained",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learned about the importance of mending",
+    "type": "insta view link to URL",
+    "action": "Learn About the Importance of Mending vs. Buying",
+    "url": "https://www.hothouse.solutions/archive-blog/mending-is-an-act-of-rebellion",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Pea Protein",
+    "type": "insta view link to URL",
+    "action": "Learn About the Power of Pea Protein",
+    "url": "https://civileats.com/2018/04/02/your-pea-protein-primer/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about the mycology movement",
+    "type": "insta view link to URL",
+    "action": "Learn About the Radical Mycology Movement",
+    "url": "https://civileats.com/2021/03/11/as-mushrooms-grow-in-popularity-a-radical-mycology-movement-is-emerging/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about the TikTok Forager",
+    "type": "insta view link to URL",
+    "action": "Learn About the TikTok Forager",
+    "url": "https://civileats.com/2021/03/04/tiktok-sensation-alexis-nikole-nelson-wants-you-to-love-foraging-as-much-as-she-does/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Zero Waste Box",
+    "type": "insta view link to URL",
+    "action": "Learn About the Zero Waste Box Program",
+    "url": "https://www.terracycle.com/en-US/pages/how-zero-waste-box-works",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learned how to retrofit a home for reduced emissions",
+    "type": "insta view link to URL",
+    "action": "Learn About to Retrofitting Your Home for Reduced Emissions",
+    "url": "https://hothouse.substack.com/p/to-fix-the-climate-retrofit-your",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "urban cooling in Canoga Park",
+    "type": "Video",
+    "action": "Learn About Urban Cooling in Canoga Park",
+    "url": "https://www.climateresolve.org/canoga-park/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learn about Tree Planting Location",
+    "type": "insta view link to URL",
+    "action": "Learn about Where to Plant a Tree",
+    "url": "https://www.wikihow.com/Choose-Where-to-Plant-Trees#:~:text=Plant%20your%20tree%20where%20it%20can%20provide%20shade,adding%20them%20to%20your%20yard%20for%20decorative%20purposes.",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Indigenous Hemp Farming",
+    "type": "insta view link to URL",
+    "action": "Learn How Indigenous Tribes Are Reviving Traditional Hemp Economies",
+    "url": "https://civileats.com/2021/03/05/op-ed-indigenous-tribes-are-reviving-traditional-hemp-economies/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Plants for Pollinators",
+    "type": "insta view link to URL",
+    "action": "Learn Plants That Attract Pollinators",
+    "url": "https://modernfarmer.com/2017/06/plants-to-attract-pollinators-by-region/?utm_source=twitter&utm_medium=social&utm_campaign=SocialMFdotCom",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Ethical Consumption",
+    "type": "Video",
+    "action": "Learn the Basics of Ethical Consumption",
+    "url": "https://www.ethicalconsumer.org/how-to-shop-ethically",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sea Level Rise",
+    "type": "Video",
+    "action": "Learn the Basics of Sea Level Rise",
+    "url": "https://www.youtube.com/watch?v=QH-KYmRAzOA",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Homemade Compost",
+    "type": "Video",
+    "action": "Learn to Make Your Own Compost",
+    "url": "https://www.youtube.com/watch?v=gPhucffEr6w",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "video",
+    "type": "Video",
+    "action": "Lighting Choices To Save You Money",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lP_KcsVtng0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "url": "https://www.youtube.com/embed/lP_KcsVtng0",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Alternative Protein",
+    "type": "insta view link to URL",
+    "action": "List of Easy Alternative Proteins",
+    "url": "https://www.goodhousekeeping.com/food-recipes/g32733789/best-meat-substitutes/#:~:text=1%20Jackfruit.%20Native%20Forest%20amazon.com%20As%20the%20name,Lentils.%20...%205%20Seitan.%20...%20More%20items...%20",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about livestock farming",
+    "type": "insta view link to URL",
+    "action": "Livestock Farming for Carbon Sequestration",
+    "url": "https://www.nytimes.com/2021/02/17/climate/regenerative-grazing-cattle-climate.html?utm_source=BFI+Meta+Global&amp;utm_campaign=5417856c06-EMAIL_CAMPAIGN_2018_09_14_10_15_COPY_01&amp;utm_medium=email&amp;utm_term=0_56130fda4e-5417856c06-137105833&amp;mc_cid=5417856c06&amp;mc_eid=0b6049197d",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Look, Smell, Taste",
+    "type": "insta view link to URL",
+    "action": "Look, Smell, Taste, Don't Waste",
+    "url": "https://www.theguardian.com/environment/2021/jan/23/cut-food-waste-at-home-by-sniffing-and-tasting-urges-new-campaign?CMP=Share_iOSApp_Other",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Mulching Video",
+    "type": "Video",
+    "action": "Mulching your Trees",
+    "description": "How to Mulch Video",
+    "url": "https://www.davey.com/arborist-advice/video/talking-trees-how-to-properly-mulch-your-trees/?_ga=2.148426551.1843578865.1617316082-914009060.1617316082",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "nasa purifing plants video",
+    "type": "Video",
+    "action": "NASA's List Of The Best Air-Filtering Houseplants",
+    "embed_code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lPNYdSZRSdg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "description": "nasa purifying plants video",
+    "url": "https://www.youtube.com/embed/lPNYdSZRSdg",
+    "time_required": "240 seconds",
+    "is_required": false
+  },
+  {
+    "name": "ocean friendly gardens",
+    "type": "insta view link to URL",
+    "action": "Ocean Friendly Gardens",
+    "url": "https://la.surfrider.org/programs/ocean-friendly-gardens/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "sign up to ohm connect",
+    "type": "insta view link to URL",
+    "action": "OhmConnect Energy Savings",
+    "item_order": 1,
+    "is_required": true,
+    "description": "Sign up to Ohm Connect Here",
+    "url": "https://www.ohmconnect.com",
+    "time_required": "3600 seconds"
+  },
+  {
+    "name": "Participate in the Creeks 2 Coast Cleanup Challenge",
+    "type": "insta view link to URL",
+    "action": "Participate in the Creeks 2 Coast Cleanup Challenge",
+    "url": "https://www.lawaterkeeper.org/cleanupchallenge",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "testing soil percolation",
+    "type": "insta view link to URL",
+    "action": "Perform an At-Home Soil Percolation Test",
+    "url": "https://hbteam.org/in-your-backyard/at-home-soil-percolation-test/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Right Tree, Right Place",
+    "media": {
+      "url": "https://dl.airtable.com/.attachments/636759775d420e8d52c006868c0d5b61/9a5a2f6c/image.png",
+      "filename": "image.png",
+      "size": 40098,
+      "mime": "image/png"
+    },
+    "type": "insta view link to URL",
+    "action": "Planting in the Right Place",
+    "item_order": 2,
+    "description": "Right Tree, Right Place",
+    "url": "https://www.cityplants.org/wp-content/uploads/2018/09/cityplants_right_tree_right_place-e1537997929464.png",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Where Should I Plant My Yard Tree?",
+    "media": {
+      "url": "https://dl.airtable.com/.attachments/2034cc1299e0f28428e496ffae460a2d/dc428d86/image.png",
+      "filename": "image.png",
+      "size": 60017,
+      "mime": "image/png"
+    },
+    "type": "insta view link to URL",
+    "action": "Planting in the Right Place",
+    "item_order": 3,
+    "description": "How far from my Residence",
+    "url": "https://www.cityplants.org/wp-content/uploads/2018/09/cityplants_save_energy_house-e1537998519780.png",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "How to Plant Your Tree Video",
+    "type": "Video",
+    "action": "Planting in the Right Place",
+    "item_order": 1,
+    "description": "How to Plant Your Tree Video",
+    "url": "https://www.youtube.com/watch?v=SkGSJhiNUZA&list=PLGKE7ZSmLp-Rb9nVtCzQGW4BFqI2rs9MZ",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Reduce meat consumption",
+    "type": "insta view link to URL",
+    "action": "Pledge to Reduce Your Meat Consumption",
+    "url": "https://endindustrialmeat.org/pledge/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Listen to a Podcast on Racial and Environmental Justice",
+    "type": "Audio",
+    "action": "Podcast: The Movement for Black Lives Saves the Planet",
+    "url": "https://the-overstory-011be928.simplecast.com/episodes/c8fef9ce",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Pope's Sustainability Advice",
+    "type": "insta view link to URL",
+    "action": "Pope Francis is Advising Investors to Think Sustainably",
+    "url": "https://www.reuters.com/article/climatechange-pope-idUSKBN26W034",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "toilet rebate 1",
+    "type": "insta view link to URL",
+    "action": "Premium High-Efficiency Toilets Rebates",
+    "item_order": 1,
+    "description": "Before you buy check out the qualifying toilets PDF",
+    "url": "https://socalwatersmart.com/files/pdfs/qualifying_het_4l.pdf",
+    "time_required": "3600 seconds",
+    "is_required": false
+  },
+  {
+    "name": "toilette rebate 2",
+    "type": "insta view link to URL",
+    "action": "Premium High-Efficiency Toilets Rebates",
+    "item_order": 2,
+    "is_required": true,
+    "description": "Sign up for rebates here",
+    "url": "https://mwddevice.conservationrebates.com",
+    "time_required": "3600 seconds"
+  },
+  {
+    "name": "Food Deserts",
+    "type": "insta view link to URL",
+    "action": "Read About Food Deserts",
+    "url": "https://www.medicalnewstoday.com/articles/what-are-food-deserts",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about regenerative grazing",
+    "type": "insta view link to URL",
+    "action": "Read About Regenerative Cattle Grazing",
+    "url": "https://www.nytimes.com/2021/02/17/climate/regenerative-grazing-cattle-climate.html?utm_source=ActiveCampaign&utm_medium=email&utm_content=New+Land+to+Market+Verified+Products+%E2%9C%85&utm_campaign=Savory+Monthly+News+-+Feb+2021",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about organic agriculture",
+    "type": "insta view link to URL",
+    "action": "Read About Scaling Up Organic Agriculture",
+    "url": "https://regenerationinternational.org/2020/12/21/global-alliance-for-organic-districts-scaling-up-organic-agriculture/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about the whitest paint ever",
+    "type": "insta view link to URL",
+    "action": "Read about the \"Whitest Ever\" Paint",
+    "url": "https://www.bbc.com/news/science-environment-56749105",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Urban Greening",
+    "type": "insta view link to URL",
+    "action": "Read About the Benefits of Urban Greening",
+    "url": "https://amigosdelosrios.org/urban-greening/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Emerald Necklace",
+    "type": "insta view link to URL",
+    "action": "Read About the Emerald Necklace Vision Plan",
+    "url": "https://amigosdelosrios.org/the-emerald-necklace-vision-plan/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about seed saving",
+    "type": "insta view link to URL",
+    "action": "Read about the Seed Saving Descendants",
+    "url": "https://modernfarmer.com/2020/11/the-seed-saving-descendants/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about youth climate activism",
+    "type": "insta view link to URL",
+    "action": "Read about Youth Climate Activism",
+    "url": "https://www.salon.com/2019/07/03/climate-strike-youth-activism-is-giving-their-parents-generation-a-second-chance/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Resilience Course",
+    "type": "insta view link to URL",
+    "action": "Register for a Free Think Resilience Course",
+    "url": "https://education.resilience.org/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Registered for Homecycle",
+    "type": "insta view link to URL",
+    "action": "Register for Homecycle ",
+    "url": "https://www.lacorps.org/homecycle/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Register your garden for pollinators",
+    "type": "insta view link to URL",
+    "action": "Register your Garden to BEE Counted",
+    "url": "https://www.pollinator.org/mpgcmap/register",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Listen to Resilient Trees Clip",
+    "type": "insta view link to URL",
+    "action": "Resilient Trees for Climate Adaptation",
+    "url": "https://www.marketplace.org/2017/06/07/sustainability/climate-changes-city-trees-will-have-be-replaced-more-resilient-species/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Eileen Fisher Renew",
+    "type": "insta view link to URL",
+    "action": "Return or Purchase from Eileen Fisher Renew",
+    "url": "https://www.eileenfisherrenew.com/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Garden Consultation",
+    "type": "insta view link to URL",
+    "action": "Schedule a Garden Consultation",
+    "url": "https://www.cropswapla.com/consultations",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Seafood Watch",
+    "type": "insta view link to URL",
+    "action": "Search for Sustainable Seafood Options",
+    "url": "https://www.seafoodwatch.org/recommendations/search?query=",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "LA river URL",
+    "type": "insta view link to URL",
+    "action": "See Pictures of LA River Before It Was Paved",
+    "url": "https://la.curbed.com/2015/8/19/9936922/la-river-history-before-concrete-after-photos",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about sponge cities",
+    "type": "insta view link to URL",
+    "action": "Should Los Angeles Transform Itself Into a Sponge City?",
+    "url": "https://ahbelab.com/2016/01/27/should-los-angeles-transform-itself-into-a-sponge-city/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Imperfect Produce",
+    "type": "insta view link to URL",
+    "action": "Sign Up for Imperfect Produce",
+    "url": "https://www.imperfectfoods.com/join",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sign up for TreePeople Newsletter",
+    "type": "insta view link to URL",
+    "action": "Sign Up for the TreePeople Newsletter",
+    "url": "https://www.treepeople.org/our-work/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sign up for Waterbear",
+    "type": "insta view link to URL",
+    "action": "Sign Up for Waterbear",
+    "url": "https://www.waterbear.com/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about Sustainable Camping",
+    "type": "insta view link to URL",
+    "action": "Sustainable Camping Trip Guide",
+    "url": "https://onetreeplanted.org/blogs/stories/sustainable-camping-checklist",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Foraging Class",
+    "type": "insta view link to URL",
+    "action": "Take a Foraging Class ",
+    "url": "http://www.schoolofself-reliance.com/about/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Sustainable Gardening Class",
+    "type": "insta view link to URL",
+    "action": "Take a Free Sustainable Gardening Class",
+    "url": "https://greengardensgroup.com/cal-am-landscape-classes-los-angeles/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "sign petitions on Climate Resolve",
+    "type": "insta view link to URL",
+    "action": "Take Action with Climate Resolve",
+    "url": "https://www.climateresolve.org/take-action/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Stand.earth",
+    "type": "insta view link to URL",
+    "action": "Take Action with Stand.earth",
+    "url": "https://www.stand.earth/take-action",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about public drinking fountains",
+    "type": "insta view link to URL",
+    "action": "The Great Comeback of the Public Drinking Water Fountain",
+    "url": "https://www.ladwp.com/ladwp/faces/wcnav_externalId/a-w-dwqr2019-gcb?_adf.ctrl-state=bktea2s7c_4&_afrLoop=62475804021831",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "read about hemp for housing in Paris",
+    "type": "insta view link to URL",
+    "action": "The Secret Ingredient in Paris’ Green Public Housing",
+    "url": "https://grist.org/buildings/the-secret-ingredient-in-paris-green-public-housing/?utm_source=newsletter&utm_medium=email&utm_campaign=beacon",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "amigod de los rios",
+    "type": "Video",
+    "action": "The Story of AMIGOS DE LOS RIOS",
+    "url": "https://www.youtube.com/watch?v=JUANzNffUTI&feature=emb_logo",
+    "time_required": "240 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learn about Tree Care",
+    "type": "insta view link to URL",
+    "action": "Tree Care Tips & Techniques",
+    "url": "http://google.com",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "npr cooling trees audio",
+    "media": {
+      "url": "https://dl.airtable.com/.attachments/a25ef2ebca65afa1856bd0517d6779d5/d79e0639/20190904_atc_trees_are_key_to_fighting_urban_heat_but_cities_keep_losing_them.mp3",
+      "filename": "20190904_atc_trees_are_key_to_fighting_urban_heat_but_cities_keep_losing_them.mp3",
+      "size": 5370543,
+      "mime": "audio/mpeg"
+    },
+    "type": "Audio",
+    "action": "Trees Are Key To Fighting Urban Heat",
+    "embed_code": "https://www.npr.org/2019/09/04/755349748/trees-are-key-to-fighting-urban-heat-but-cities-keep-losing-them",
+    "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2019/09/20190904_atc_trees_are_key_to_fighting_urban_heat_but_cities_keep_losing_them.mp3?orgId=1&topicId=1150&aggIds=756048128&d=336&p=2&story=755349748&dl=1&siteplayer=true&size=5370543&dl=1",
+    "time_required": "300 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Thinx",
+    "type": "insta view link to URL",
+    "action": "Try Thinx Period Panties Risk-Free",
+    "url": "https://www.shethinx.com/collections/thinx-shop-all",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Food and Climate Change",
+    "type": "insta view link to URL",
+    "action": "Understanding Food and Climate Change",
+    "url": "https://foodandclimate.ecoliteracy.org/interactive-guide/cover.xhtml#",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Soil Centric Action Planner",
+    "type": "insta view link to URL",
+    "action": "Use the Soil Centric Action Planner",
+    "url": "https://www.soilcentric.org/pages/action-planner",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Visit the LA City History Trail",
+    "type": "insta view link to URL",
+    "action": "Visit the L.A. City History Trail",
+    "url": "https://amigosdelosrios.org/los-angeles-city-history-trail/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Volunteer with City Plants",
+    "type": "insta view link to URL",
+    "action": "Volunteer With City Plants ",
+    "url": "https://www.cityplants.org/volunteer/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "volunteer with LA compost",
+    "type": "insta view link to URL",
+    "action": "Volunteer with LA Compost",
+    "url": "https://www.lacompost.org/volunteer",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Volunteer with LA-Más",
+    "type": "insta view link to URL",
+    "action": "Volunteer with LA-Más",
+    "url": "https://www.mas.la/get-involved",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Volunteer with MPA Watch",
+    "type": "insta view link to URL",
+    "action": "Volunteer with MPA Watch",
+    "url": "https://www.lawaterkeeper.org/volunteer",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Watch a video on a clean energy future",
+    "type": "Video",
+    "action": "Watch a Video On a Model of a Clean Energy Future",
+    "url": "https://youtu.be/i_xwYTKX8pY",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Watch a Video on Commonwealth Nursery",
+    "type": "Video",
+    "action": "Watch a Video on Commonwealth Nursery",
+    "url": "https://youtu.be/3K1ac5mn4AM",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Foraging Video",
+    "type": "Video",
+    "action": "Watch a Video on Foraging",
+    "url": "https://www.youtube.com/watch?v=ew5yeWqsWY8",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Video on India's Water Revolution",
+    "type": "Video",
+    "action": "Watch a Video on India's Water Revolution",
+    "url": "https://www.youtube.com/watch?v=-8nqnOcoLqE",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "LA water future ",
+    "type": "Video",
+    "action": "Watch a video on LA's water future",
+    "url": "https://player.vimeo.com/video/185728797",
+    "time_required": "120 seconds",
+    "is_required": false
+  },
+  {
+    "name": "ohm connect intro video",
+    "type": "Video",
+    "action": "Watch a Video on OhmConnect",
+    "url": "https://www.youtube.com/embed/PkS41TMrgtk",
+    "time_required": "180 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Watched Symbiotic Earth",
+    "type": "Video",
+    "action": "Watch Symbiotic Earth",
+    "url": "https://hummingbirdfilms.com/symbioticearth/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Circular Economy video",
+    "type": "Video",
+    "action": "What is a Circular Economy?",
+    "url": "https://youtu.be/zCRKvDyyHmI",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about organic cotton farming",
+    "type": "insta view link to URL",
+    "action": "What Will it Take for Farmers to Grow More Organic Cotton?",
+    "url": "https://civileats.com/2021/03/15/what-will-it-take-for-farmers-to-grow-more-organic-cotton/",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Whats your water foot print",
+    "type": "insta view link to URL",
+    "action": "What's Your Water Footprint?",
+    "item_order": 1,
+    "is_required": true,
+    "description": "Find your Water Footprint",
+    "url": "https://www.watercalculator.org/wfc2/q/household/",
+    "time_required": "240 seconds"
+  },
+  {
+    "name": "Water calculate tips",
+    "type": "insta view link to URL",
+    "action": "What's Your Water Footprint?",
+    "item_order": 2,
+    "description": "How to Save Water",
+    "url": "https://www.watercalculator.org/how-to-save-water/",
+    "time_required": "600 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Learn about trees and mental health",
+    "type": "insta view link to URL",
+    "action": "Why Trees Can Make You Happier",
+    "url": "https://greatergood.berkeley.edu/article/item/why_trees_can_make_you_happier",
+    "time_required": "60 seconds",
+    "is_required": false
+  },
+  {
+    "name": "Read about wild crops",
+    "type": "insta view link to URL",
+    "action": "Wild Crops Could Save Our Food System ",
+    "url": "https://grist.org/food/wild-crops-could-save-our-food-system-if-we-dont-destroy-them-first/",
+    "time_required": "60 seconds",
+    "is_required": false
+  }
+]

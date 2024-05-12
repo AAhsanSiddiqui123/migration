@@ -1,0 +1,22 @@
+[
+  {
+    "track": "LA Forest Challenge",
+    "track_order": 0,
+    "action": "Planting in the Right Place"
+  },
+  {
+    "track": "LA Forest Challenge",
+    "track_order": 1,
+    "action": "Planting your Tree"
+  },
+  {
+    "track": "LA Forest Challenge",
+    "track_order": 2,
+    "action": "Watering your Tree"
+  },
+  {
+    "track": "LA Forest Challenge",
+    "track_order": 3,
+    "action": "Mulching your Trees"
+  }
+]

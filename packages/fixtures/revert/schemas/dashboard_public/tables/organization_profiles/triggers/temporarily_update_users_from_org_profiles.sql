@@ -1,0 +1,8 @@
+-- Revert schemas/dashboard_public/tables/organization_profiles/triggers/temporarily_update_users_from_org_profiles from pg
+
+BEGIN;
+
+DROP TRIGGER temporarily_update_users_from_org_profiles ON dashboard_public.organization_profiles;
+DROP FUNCTION dashboard_private.tg_temporarily_update_users_from_org_profiles; 
+
+COMMIT;

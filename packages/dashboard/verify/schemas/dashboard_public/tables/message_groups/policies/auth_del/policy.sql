@@ -1,0 +1,6 @@
+-- Verify: schemas/dashboard_public/tables/message_groups/policies/auth_del/policy on pg
+
+BEGIN;
+SELECT verify_policy('auth_del', 'dashboard_public.message_groups');
+COMMIT;  
+

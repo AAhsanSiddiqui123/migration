@@ -1,0 +1,26 @@
+%syntax-version=1.0.0
+%project=launchql-snippets
+%uri=launchql-snippets
+  
+migrate/add-gql-domain [svc:migrate/stage] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/add-gql-domain
+migrate/admins 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/admins
+migrate/copy-api-fn 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/copy-api-fn
+migrate/cms-root-stage [migrate/admins migrate/add-gql-domain migrate/copy-api-fn] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/cms-root-stage
+migrate/cms-root [migrate/admins migrate/add-gql-domain migrate/copy-api-fn] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/cms-root
+migrate/cms-stage [migrate/admins migrate/add-gql-domain migrate/copy-api-fn] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/cms-stage
+migrate/cms [migrate/admins migrate/add-gql-domain migrate/copy-api-fn] 2017-08-11T08:11:51Z skitch <skitch@5b0c196eeb62> # add migrate/cms
+migrate/update-api-fn 2021-08-18T08:18:30Z Dan Lynch <dlynch@dans-mbp-3.lan> # update api fn
+migrate/update-rls-modules 2021-08-18T08:26:28Z Dan Lynch <dlynch@dans-mbp-3.lan> # update
+migrate/migration-06-forms-a 2021-11-18T00:00:06Z Dan Lynch <dlynch@Dans-MacBook-Pro-3.local> # forms
+migrate/migration-06-forms-b 2021-11-18T00:00:12Z Dan Lynch <dlynch@Dans-MacBook-Pro-3.local> # forms
+migrate/migration-06-items-a 2021-11-18T00:00:23Z Dan Lynch <dlynch@Dans-MacBook-Pro-3.local> # items
+migrate/migration-06-items-b 2021-11-18T00:00:27Z Dan Lynch <dlynch@Dans-MacBook-Pro-3.local> # items
+migrate/action_items_started_updated 2021-11-18T01:13:05Z Dan Lynch <dlynch@Dans-MacBook-Pro-3.local> # updated
+migrate/location-updates 2022-03-14T23:41:07Z System Administrator <root@Ds-PyraPro.local> # updates
+migrate/location-action-polygons 2022-03-09T22:35:49Z System Administrator <root@Ds-PyraPro> # actions
+migrate/location-group-polygons 2022-03-11T03:06:54Z System Administrator <root@Ds-PyraPro> # groups
+migrate/location-action-item-polygons 2022-03-12T01:45:32Z System Administrator <root@Ds-PyraPro> # action items
+migrate/location-user-polygons 2022-03-12T01:45:41Z System Administrator <root@Ds-PyraPro> # user
+migrate/trigger-updates 2022-03-15T01:22:44Z System Administrator <root@Ds-PyraPro.local> # updates
+migrate/location-track-polygons 2022-03-29T06:56:10Z System Administrator <root@Ds-PyraPro> # update
+migrate/user-action-verifications-tg 2022-07-12T06:39:34Z System Administrator <root@Ds-PyraPro> # trigger

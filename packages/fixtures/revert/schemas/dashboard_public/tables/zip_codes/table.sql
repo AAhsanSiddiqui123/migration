@@ -1,0 +1,1 @@
+-- Revert schemas/dashboard_public/tables/zip_codes/table from pg

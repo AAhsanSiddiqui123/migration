@@ -1,0 +1,1 @@
+-- Verify schemas/faker/schema  on pg

@@ -1,0 +1,6 @@
+-- Verify: schemas/dashboard_memberships_public/tables/memberships/columns/is_banned/alterations/alt0000000220 on pg
+
+BEGIN;
+
+COMMIT;  
+

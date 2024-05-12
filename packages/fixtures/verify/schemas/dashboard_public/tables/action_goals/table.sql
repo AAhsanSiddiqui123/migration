@@ -1,0 +1,1 @@
+-- Verify schemas/dashboard_public/tables/action_goals/table  on pg

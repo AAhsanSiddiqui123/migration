@@ -1,0 +1,8 @@
+# dbe-svc-test extension
+comment = 'dbe-svc-test extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/dbe-svc-test'
+requires = 'plpgsql,svc'
+relocatable = false
+superuser = false
+  

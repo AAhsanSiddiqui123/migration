@@ -1,0 +1,8 @@
+# dbe-svc-stage extension
+comment = 'dbe-svc-stage extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/dbe-svc-stage'
+requires = 'plpgsql,svc'
+relocatable = false
+superuser = false
+  

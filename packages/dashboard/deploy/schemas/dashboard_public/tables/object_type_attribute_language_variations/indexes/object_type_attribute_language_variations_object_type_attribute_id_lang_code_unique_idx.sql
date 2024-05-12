@@ -1,0 +1,8 @@
+-- Deploy dashboard:schemas/dashboard_public/tables/object_type_attribute_language_variations/indexes/object_type_attribute_language_variations_object_type_attribute_id_lang_code_unique_idx to pg
+
+BEGIN;
+
+ALTER TABLE dashboard_public.object_type_attribute_language_variations
+    ADD CONSTRAINT oalv_object_type_attribute_id_lang_code_unique_idx UNIQUE (object_type_attribute_id,lang_code);
+
+COMMIT;

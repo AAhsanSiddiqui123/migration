@@ -1,0 +1,6 @@
+-- Verify: schemas/dashboard_status_public/tables/app_steps/columns/count/alterations/alt0000000149 on pg
+
+BEGIN;
+
+COMMIT;  
+

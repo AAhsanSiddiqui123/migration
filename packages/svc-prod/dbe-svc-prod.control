@@ -1,0 +1,8 @@
+# dbe-svc-prod extension
+comment = 'dbe-svc-prod extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/dbe-svc-prod'
+requires = 'plpgsql,svc'
+relocatable = false
+superuser = false
+  

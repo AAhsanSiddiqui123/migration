@@ -1,0 +1,38 @@
+[
+  {
+    "goal": "WATER CAPTURE",
+    "audio": {
+      "url": "https://dl.airtable.com/.attachments/977fcf4a9606ab60004d3cf11d6d4e42/a25b600f/Capturewater.mp3",
+      "filename": "Capture water.mp3",
+      "size": 570327,
+      "mime": "audio/mpeg"
+    },
+    "audio_duration": "180 seconds",
+    "explanation_title": "WHY DOES THIS MATTER?",
+    "explanation": "By capturing, filtering, and storing rainwater we can have safe, healthy and abundant water source. \n"
+  },
+  {
+    "goal": "REGENERATE LAND",
+    "audio": {
+      "url": "https://dl.airtable.com/.attachments/ca11a480e6de114ee396bca5ea0534b4/e9b9e5a8/StewardLand.mp3",
+      "filename": "Steward Land.mp3",
+      "size": 552398,
+      "mime": "audio/mpeg"
+    },
+    "audio_duration": "180 seconds",
+    "explanation_title": "WHY DOES THIS MATTER?",
+    "explanation": "L.A is a internationally recognized hotspot for biodiversity and L.A.'s goal is to keep it all safe. "
+  },
+  {
+    "goal": "COOL THE CITY",
+    "audio": {
+      "url": "https://dl.airtable.com/.attachments/8aa48b302bbc00249020944e94818526/3fa31512/KeepLACool.mp3",
+      "filename": "Keep LA Cool.mp3",
+      "size": 468158,
+      "mime": "audio/mpeg"
+    },
+    "audio_duration": "180 seconds",
+    "explanation_title": "WHY DOES THIS MATTER?",
+    "explanation": "Our endless summers have become unbearably hot, threatening our lives and intensifying climate change"
+  }
+]

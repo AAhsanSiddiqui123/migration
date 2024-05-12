@@ -1,0 +1,7 @@
+INSERT INTO dashboard_public.track_actions ( action_id, track_id, owner_id, track_order ) VALUES ((SELECT id FROM dashboard_public.actions WHERE slug = inflection.slugify('Planting in the Right Place')), (SELECT id FROM dashboard_public.tracks WHERE name = 'LA Forest Challenge'), (SELECT owner_id FROM dashboard_public.actions WHERE slug = inflection.slugify('Planting in the Right Place')), 0);
+
+INSERT INTO dashboard_public.track_actions ( action_id, track_id, owner_id, track_order ) VALUES ((SELECT id FROM dashboard_public.actions WHERE slug = inflection.slugify('Planting your Tree')), (SELECT id FROM dashboard_public.tracks WHERE name = 'LA Forest Challenge'), (SELECT owner_id FROM dashboard_public.actions WHERE slug = inflection.slugify('Planting your Tree')), 1);
+
+INSERT INTO dashboard_public.track_actions ( action_id, track_id, owner_id, track_order ) VALUES ((SELECT id FROM dashboard_public.actions WHERE slug = inflection.slugify('Watering your Tree')), (SELECT id FROM dashboard_public.tracks WHERE name = 'LA Forest Challenge'), (SELECT owner_id FROM dashboard_public.actions WHERE slug = inflection.slugify('Watering your Tree')), 2);
+
+INSERT INTO dashboard_public.track_actions ( action_id, track_id, owner_id, track_order ) VALUES ((SELECT id FROM dashboard_public.actions WHERE slug = inflection.slugify('Mulching your Trees')), (SELECT id FROM dashboard_public.tracks WHERE name = 'LA Forest Challenge'), (SELECT owner_id FROM dashboard_public.actions WHERE slug = inflection.slugify('Mulching your Trees')), 3);

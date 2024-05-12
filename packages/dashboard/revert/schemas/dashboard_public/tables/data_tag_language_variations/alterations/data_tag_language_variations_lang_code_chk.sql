@@ -1,0 +1,7 @@
+-- Revert dashboard:schemas/dashboard_public/tables/data_tag_language_variations/alterations/data_tag_language_variations_lang_code_chk from pg
+
+BEGIN;
+
+ALTER TABLE dashboard_public.data_tag_language_variations DROP CONSTRAINT data_tag_language_variations_lang_code_chk;
+
+COMMIT;

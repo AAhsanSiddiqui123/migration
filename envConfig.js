@@ -1,6 +1,6 @@
 const { SecretsManagerClient, GetSecretValueCommand } = require('@aws-sdk/client-secrets-manager');
 const getDatabaseConfig = async () => {
-    if (process.env.ENV !== 'local') {
+    if (false) {
         const client = new SecretsManagerClient({
             region: process.env.AWS_REGION,
         });
@@ -31,10 +31,10 @@ const getDatabaseConfig = async () => {
         });
     } else {
         return {
-            PGUSER: process.env.DATABASE_USER,
-            PGPASSWORD: process.env.DATABASE_PASSWORD,
-            PGHOST: process.env.DATABASE_HOST,
-            PGPORT: process.env.DATABASE_PORT,
+            PGUSER: 'postgres',
+            PGPASSWORD: 'postgres',
+            PGHOST: 'database-1.crvkg9mnjeve.ca-central-1.rds.amazonaws.com',
+            PGPORT: 5432,
         };
     }
 };

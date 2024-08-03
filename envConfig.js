@@ -33,7 +33,7 @@ const getDatabaseConfig = async () => {
         return {
             PGUSER: 'postgres',
             PGPASSWORD: 'postgres',
-            PGHOST: 'database-1.crvkg9mnjeve.ca-central-1.rds.amazonaws.com',
+            PGHOST: 'database-2.crvkg9mnjeve.ca-central-1.rds.amazonaws.com',
             PGPORT: 5432,
         };
     }

@@ -18,6 +18,7 @@ function excu(name, database) {
 
 const deploy = async (name, database, opts) => {
   const { PGUSER, PGPASSWORD, PGHOST, PGPORT } = await getDatabaseConfig();
+  console.log(PGUSER, PGPASSWORD,PGHOST, PGPORT);
   const modules = await listModules();
   const path = await skitchPath();
   if (!modules[name]) {
